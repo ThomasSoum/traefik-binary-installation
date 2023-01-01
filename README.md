@@ -5,7 +5,6 @@
 
 <!-- TABLE OF CONTENTS -->
 ## :ledger: Table of Contents
-- [:memo: Introduction ](#introduction)
 - [:desktop\_computer: System Preperation ](#SystemPreperation)
   - [:arrow_down: Download the binary](#download)
   - [:package: Moving binary to the correct location](#MovingBinary)
